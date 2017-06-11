@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /ADMIN/
+Disallow: /wamplanguages/
+Disallow: /wampthemes/
+Disallow: /Comp/
